@@ -6,6 +6,7 @@ from collections import OrderedDict
 from collections import defaultdict
 #from feature_extraction import *
 #from feature_extraction import *
+import os
 from numpy import mean
 from scipy import spatial
 from nltk.corpus import stopwords
